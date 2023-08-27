@@ -1,0 +1,12 @@
+Parkinson’s disease (PD) is one of the major public health diseases in the world which is 
+progressively increasing day by day and already had its effect on many countries. Early 
+and accurate diagnosis of PD is crucial for the management of the disease and to improve 
+the quality of life of patients. In this project, the SVM algorithm was used for the 
+classification of PD. Initially, the whole baseline features were used in the SVM
+algorithm and the model is trained using various dataset then input is given by the user 
+then model predict the result. The performance of these model is evaluated using various 
+metrics such as accuracy and high sensitivity. The model is trained and tested on the data 
+set and the model is able to accurately predict Parkinson’s disease with a high accuracy 
+rate. The result of this project is to demonstrate the potential of using machine learning 
+as a tool for early detection of Parkinson's disease, which can aid in timely intervention 
+and management of the condition
